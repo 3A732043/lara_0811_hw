@@ -50,7 +50,6 @@
                 <div class="p-6">
 
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
-                        <a href="{{ route('home.index') }}"  class="underline text-gray-900 dark:text-white">首頁</a>
                         <a href="{{ route('about.index') }}">關於本站</a>
                         <a href="{{ route('news.index') }}">最新消息</a>
                     </div>
